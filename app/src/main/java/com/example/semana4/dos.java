@@ -36,6 +36,7 @@ TextView PEG1;
         op1 = findViewById(R.id.cbOpcion1);
         op2 = findViewById(R.id.cbOpcion2);
         op3 = findViewById(R.id.cbOpcion3);
+        //s
 
     }
     public void  verificar (View v){
